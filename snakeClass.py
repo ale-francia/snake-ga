@@ -1,8 +1,8 @@
 import os
+import seaborn as sns
 import pygame
 import argparse
 import numpy as np
-import seaborn as sns
 import matplotlib.pyplot as plt
 from DQN import DQNAgent
 from random import randint
