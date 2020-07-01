@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 from DQN import DQNAgent
 from random import randint
 from keras.utils import to_categorical
-
+ 
 #################################
 #   Define parameters manually  #
 #################################
